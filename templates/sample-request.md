@@ -1,5 +1,6 @@
 # Sample Request: Independent Hardware Review
 
+
 **From:** Anthony Moore (KossKell)  
 **Subject:** Independent Technical Review Request – [Product Name / Model]
 
